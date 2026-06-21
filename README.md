@@ -1,5 +1,5 @@
 # Data-Analysis-Project
-Qskill internship CSV Data Analysis using Pandas + Matplotlib
+Qskill internship CSV Student Data Analysis using Pandas + Matplotlib
 
 
 ## Objective
