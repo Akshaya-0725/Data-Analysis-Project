@@ -2,8 +2,6 @@
 Qskill internship CSV Data Analysis using Pandas + Matplotlib
 
 
-# Student Data Analysis Project
-
 ## Objective
 Analyze student data using Pandas and visualize results using Matplotlib.
 
